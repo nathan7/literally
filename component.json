@@ -1,0 +1,15 @@
+{
+  "name": "literally",
+  "repo": "nathan7/literally",
+  "description": "a function that literally just returns your value",
+  "keywords": [ "utility" ],
+  "version": "1.0.0",
+  "scripts": [ "index.js" ],
+  "dependencies": {
+    "nathan7/desync": "*"
+  },
+  "development": {},
+  "license": "MIT"
+
+
+}

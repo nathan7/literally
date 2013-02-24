@@ -1,0 +1,15 @@
+{
+  "name": "literally",
+  "repository": { "type": "git", "url": "git://github.com/nathan7/literally.git" },
+  "description": "a function that literally just returns your value",
+  "keywords": [ "utility" ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "desync": "~1.1.1"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "author": "Nathan Zadoks",
+  "readmeFilename": "Readme.md"
+}
